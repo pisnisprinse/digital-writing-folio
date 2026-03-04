@@ -1,6 +1,4 @@
-# digital-writing-2026
-
-## A Folio for Digital Writing by Jack Linke
+# A Folio for Digital Writing by Jack Linke
 
 ### Tutors 
 
