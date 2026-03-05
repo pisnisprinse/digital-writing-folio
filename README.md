@@ -19,13 +19,12 @@ pieces like *the gathering cloud* are very interesting to me: i'm very intereste
 
 ### tutors 
 lucinda strahan   
-> [email](lucinda.strahan@rmit.edu.au)  
+> lucinda.strahan@rmit.edu.au   
 > [github](https://github.com/lucidogmum/)
 
 jenny hedley  
-> [email](jenny.hedley@rmit.edu.au)  
+> jenny.hedley@rmit.edu.au   
 > [github](https://github.com/jennyhedley/)  
-> [glitch](https://a-compendium.glitch.me/)
 
 ### useful links
-[class repo](https://github.com/lucidogmum/digital-writing-2026/tree/main)  
+> [class repo](https://github.com/lucidogmum/digital-writing-2026/tree/main)  
