@@ -11,3 +11,11 @@ of the examples, i only got to explore *the gathering cloud* and *shade*, but i 
 > ***what do you expect from this class? what would you like to be better at by the end of semester?***
 
 i'm very excited to learn to code! it's something i've tried to teach myself a few times, usually through twine and the like, so i'm excited to receive some formalised education on the topic.
+
+### week 2
+
+> ***“This is where we can see a generational age difference in terms of the authorship of third-generation works of e-lit. Many ELO members, such as myself, grew up at a time where we could see the digital materiality sharply. Most 3rd generation e-lit writers are a younger generation who have naturalized what was experimental to us, and even though the work they create may be naïve and disconnected from the artistic and literary traditions of the past, they were more directly formed by digital culture.” - Flores (2019)***
+
+> ***Q: What defines the ‘Three Generations’ of E-Lit that Flores refers to?***
+
+flores' first generation of e-lit writers are those who were already alive and writing during the advent of the form: the first adopters who laid a lot of the groundwork for the rules and definition of the form. the second generation, which she may or may not be part of, were those who grew up with the internet but were nevertheless raised to see themselves as separate from the digital world: they were able to build upon the previous work of the first generation but bring a longer history with tech to their practice. the third generation, on the other hand, is a generation raised within the digital world; they see phones/laptops/the internet as an extension of themselves and are thus a lot more comfortable with the digital and technological aspects of the form and are have a naturalised understanding of it. Still, I can't help but feel the third generation is disadvantaged by their early introduction to tech and their over-reliance on corporatised programs and interfaces such as Twine or Windows. We don't have the same understanding of the fundamentals of computing that many in the earlier generations were forced to develop in order to create within the format and instead rely on processors to help us create, limiting the breadth and scope of our potential works greatly.
